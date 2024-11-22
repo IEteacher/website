@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{A as C,a as i,b as p,c as r,d as n,e as m,f as s,k as a,n as f,p as c,q as l,t as d,x as u}from"./chunk-ZMYG46HP.mjs";var o=class t{title="website";static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-root"]],standalone:!0,features:[s],decls:3,vars:0,template:function(e,R){e&1&&(p(0,"h1"),m(1,"This is my Website"),r(),n(2,"router-outlet"))},dependencies:[u]})};var g=[];var v={providers:[a({eventCoalescing:!0}),C(g),l()]};var b={providers:[d()]},A=f(v,b);var y=()=>c(o,A),B=y;export{B as a};
